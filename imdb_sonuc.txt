@@ -1,0 +1,250 @@
+isim:The Shawshank Redemptionyil: 1994Puan:9.2
+isim:The Godfatheryil: 1972Puan:9.2
+isim:The Dark Knightyil: 2008Puan:9.0
+isim:The Godfather Part IIyil: 1974Puan:9.0
+isim:12 Angry Menyil: 1957Puan:8.9
+isim:Schindler's Listyil: 1993Puan:8.9
+isim:The Lord of the Rings: The Return of the Kingyil: 2003Puan:8.9
+isim:Pulp Fictionyil: 1994Puan:8.8
+isim:The Lord of the Rings: The Fellowship of the Ringyil: 2001Puan:8.8
+isim:Il buono, il brutto, il cattivoyil: 1966Puan:8.8
+isim:Forrest Gumpyil: 1994Puan:8.8
+isim:Fight Clubyil: 1999Puan:8.7
+isim:Inceptionyil: 2010Puan:8.7
+isim:The Lord of the Rings: The Two Towersyil: 2002Puan:8.7
+isim:The Empire Strikes Backyil: 1980Puan:8.7
+isim:The Matrixyil: 1999Puan:8.7
+isim:Goodfellasyil: 1990Puan:8.7
+isim:One Flew Over the Cuckoo's Nestyil: 1975Puan:8.6
+isim:Se7enyil: 1995Puan:8.6
+isim:Shichinin no samuraiyil: 1954Puan:8.6
+isim:It's a Wonderful Lifeyil: 1946Puan:8.6
+isim:The Silence of the Lambsyil: 1991Puan:8.6
+isim:Cidade de Deusyil: 2002Puan:8.6
+isim:Saving Private Ryanyil: 1998Puan:8.6
+isim:La vita è bellayil: 1997Puan:8.6
+isim:The Green Mileyil: 1999Puan:8.6
+isim:Interstellaryil: 2014Puan:8.6
+isim:Star Warsyil: 1977Puan:8.6
+isim:Terminator 2: Judgment Dayyil: 1991Puan:8.5
+isim:Back to the Futureyil: 1985Puan:8.5
+isim:Sen to Chihiro no kamikakushiyil: 2001Puan:8.5
+isim:Psychoyil: 1960Puan:8.5
+isim:The Pianistyil: 2002Puan:8.5
+isim:Léonyil: 1994Puan:8.5
+isim:Gisaengchungyil: 2019Puan:8.5
+isim:The Lion Kingyil: 1994Puan:8.5
+isim:Gladiatoryil: 2000Puan:8.5
+isim:American History Xyil: 1998Puan:8.5
+isim:The Departedyil: 2006Puan:8.5
+isim:The Usual Suspectsyil: 1995Puan:8.5
+isim:The Prestigeyil: 2006Puan:8.5
+isim:Casablancayil: 1942Puan:8.5
+isim:Whiplashyil: 2014Puan:8.5
+isim:The Intouchablesyil: 2011Puan:8.5
+isim:Hotaru no hakayil: 1988Puan:8.5
+isim:Seppukuyil: 1962Puan:8.5
+isim:Modern Timesyil: 1936Puan:8.4
+isim:Once Upon a Time in the Westyil: 1968Puan:8.4
+isim:Rear Windowyil: 1954Puan:8.4
+isim:Alienyil: 1979Puan:8.4
+isim:City Lightsyil: 1931Puan:8.4
+isim:Nuovo Cinema Paradisoyil: 1988Puan:8.4
+isim:Apocalypse Nowyil: 1979Puan:8.4
+isim:Mementoyil: 2000Puan:8.4
+isim:Raiders of the Lost Arkyil: 1981Puan:8.4
+isim:Django Unchainedyil: 2012Puan:8.4
+isim:Top Gun: Maverickyil: 2022Puan:8.4
+isim:WALL·Eyil: 2008Puan:8.4
+isim:The Lives of Othersyil: 2006Puan:8.4
+isim:Sunset Blvd.yil: 1950Puan:8.4
+isim:Paths of Gloryyil: 1957Puan:8.4
+isim:The Shiningyil: 1980Puan:8.4
+isim:The Great Dictatoryil: 1940Puan:8.4
+isim:Witness for the Prosecutionyil: 1957Puan:8.4
+isim:Avengers: Infinity Waryil: 2018Puan:8.4
+isim:Aliensyil: 1986Puan:8.3
+isim:American Beautyyil: 1999Puan:8.3
+isim:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bombyil: 1964Puan:8.3
+isim:Spider-Man: Into the Spider-Verseyil: 2018Puan:8.3
+isim:The Dark Knight Risesyil: 2012Puan:8.3
+isim:Oldeuboiyil: 2003Puan:8.3
+isim:Jokeryil: 2019Puan:8.3
+isim:Amadeusyil: 1984Puan:8.3
+isim:Braveheartyil: 1995Puan:8.3
+isim:Toy Storyyil: 1995Puan:8.3
+isim:Cocoyil: 2017Puan:8.3
+isim:Inglourious Basterdsyil: 2009Puan:8.3
+isim:Das Bootyil: 1981Puan:8.3
+isim:Mononoke-himeyil: 1997Puan:8.3
+isim:Avengers: Endgameyil: 2019Puan:8.3
+isim:Once Upon a Time in Americayil: 1984Puan:8.3
+isim:Good Will Huntingyil: 1997Puan:8.3
+isim:Kimi no na wa.yil: 2016Puan:8.3
+isim:Requiem for a Dreamyil: 2000Puan:8.3
+isim:Toy Story 3yil: 2010Puan:8.3
+isim:Singin' in the Rainyil: 1952Puan:8.3
+isim:3 Idiotsyil: 2009Puan:8.3
+isim:Star Wars: Episode VI - Return of the Jediyil: 1983Puan:8.3
+isim:Tengoku to jigokuyil: 1963Puan:8.3
+isim:2001: A Space Odysseyyil: 1968Puan:8.3
+isim:Eternal Sunshine of the Spotless Mindyil: 2004Puan:8.3
+isim:Reservoir Dogsyil: 1992Puan:8.3
+isim:Capharnaümyil: 2018Puan:8.3
+isim:Lawrence of Arabiayil: 1962Puan:8.3
+isim:Citizen Kaneyil: 1941Puan:8.3
+isim:Jagtenyil: 2012Puan:8.3
+isim:M - Eine Stadt sucht einen Mörderyil: 1931Puan:8.3
+isim:North by Northwestyil: 1959Puan:8.3
+isim:Idi i smotriyil: 1985Puan:8.2
+isim:Vertigoyil: 1958Puan:8.2
+isim:Le fabuleux destin d'Amélie Poulainyil: 2001Puan:8.2
+isim:A Clockwork Orangeyil: 1971Puan:8.2
+isim:Double Indemnityyil: 1944Puan:8.2
+isim:Full Metal Jacketyil: 1987Puan:8.2
+isim:The Apartmentyil: 1960Puan:8.2
+isim:Scarfaceyil: 1983Puan:8.2
+isim:Ikiruyil: 1952Puan:8.2
+isim:The Stingyil: 1973Puan:8.2
+isim:To Kill a Mockingbirdyil: 1962Puan:8.2
+isim:Taxi Driveryil: 1976Puan:8.2
+isim:Heatyil: 1995Puan:8.2
+isim:Upyil: 2009Puan:8.2
+isim:L.A. Confidentialyil: 1997Puan:8.2
+isim:Metropolisyil: 1927Puan:8.2
+isim:Incendiesyil: 2010Puan:8.2
+isim:Jodaeiye Nader az Siminyil: 2011Puan:8.2
+isim:Die Hardyil: 1988Puan:8.2
+isim:Snatchyil: 2000Puan:8.2
+isim:Indiana Jones and the Last Crusadeyil: 1989Puan:8.2
+isim:Ladri di bicicletteyil: 1948Puan:8.2
+isim:Hamiltonyil: 2020Puan:8.2
+isim:1917yil: 2019Puan:8.2
+isim:Taare Zameen Paryil: 2007Puan:8.2
+isim:Der Untergangyil: 2004Puan:8.2
+isim:Per qualche dollaro in piùyil: 1965Puan:8.2
+isim:Batman Beginsyil: 2005Puan:8.2
+isim:Dangalyil: 2016Puan:8.2
+isim:The Kidyil: 1921Puan:8.2
+isim:Some Like It Hotyil: 1959Puan:8.2
+isim:All About Eveyil: 1950Puan:8.2
+isim:The Fatheryil: 2020Puan:8.2
+isim:Green Bookyil: 2018Puan:8.2
+isim:Spider-Man: No Way Homeyil: 2021Puan:8.2
+isim:The Wolf of Wall Streetyil: 2013Puan:8.2
+isim:Judgment at Nurembergyil: 1961Puan:8.2
+isim:Ranyil: 1985Puan:8.2
+isim:Casinoyil: 1995Puan:8.2
+isim:Unforgivenyil: 1992Puan:8.2
+isim:Pan's Labyrinthyil: 2006Puan:8.2
+isim:There Will Be Bloodyil: 2007Puan:8.2
+isim:The Truman Showyil: 1998Puan:8.2
+isim:The Sixth Senseyil: 1999Puan:8.2
+isim:A Beautiful Mindyil: 2001Puan:8.2
+isim:Monty Python and the Holy Grailyil: 1975Puan:8.2
+isim:Yôjinbôyil: 1961Puan:8.1
+isim:The Treasure of the Sierra Madreyil: 1948Puan:8.1
+isim:Shutter Islandyil: 2010Puan:8.1
+isim:Jurassic Parkyil: 1993Puan:8.1
+isim:The Great Escapeyil: 1963Puan:8.1
+isim:Rashômonyil: 1950Puan:8.1
+isim:Kill Bill: Vol. 1yil: 2003Puan:8.1
+isim:No Country for Old Menyil: 2007Puan:8.1
+isim:Finding Nemoyil: 2003Puan:8.1
+isim:The Elephant Manyil: 1980Puan:8.1
+isim:Chinatownyil: 1974Puan:8.1
+isim:Raging Bullyil: 1980Puan:8.1
+isim:The Thingyil: 1982Puan:8.1
+isim:Gone with the Windyil: 1939Puan:8.1
+isim:V for Vendettayil: 2005Puan:8.1
+isim:Inside Outyil: 2015Puan:8.1
+isim:Lock, Stock and Two Smoking Barrelsyil: 1998Puan:8.1
+isim:Dial M for Murderyil: 1954Puan:8.1
+isim:El secreto de sus ojosyil: 2009Puan:8.1
+isim:Hauru no ugoku shiroyil: 2004Puan:8.1
+isim:The Bridge on the River Kwaiyil: 1957Puan:8.1
+isim:Three Billboards Outside Ebbing, Missouriyil: 2017Puan:8.1
+isim:Trainspottingyil: 1996Puan:8.1
+isim:Warrioryil: 2011Puan:8.1
+isim:Gran Torinoyil: 2008Puan:8.1
+isim:Fargoyil: 1996Puan:8.1
+isim:Prisonersyil: 2013Puan:8.1
+isim:Tonari no Totoroyil: 1988Puan:8.1
+isim:Million Dollar Babyyil: 2004Puan:8.1
+isim:Catch Me If You Canyil: 2002Puan:8.1
+isim:The Gold Rushyil: 1925Puan:8.1
+isim:Blade Runneryil: 1982Puan:8.1
+isim:On the Waterfrontyil: 1954Puan:8.1
+isim:Everything Everywhere All at Onceyil: 2022Puan:8.1
+isim:Bacheha-Ye asemanyil: 1997Puan:8.1
+isim:The Third Manyil: 1949Puan:8.1
+isim:Ben-Huryil: 1959Puan:8.1
+isim:Before Sunriseyil: 1995Puan:8.1
+isim:12 Years a Slaveyil: 2013Puan:8.1
+isim:Smultronställetyil: 1957Puan:8.1
+isim:The Generalyil: 1926Puan:8.1
+isim:Gone Girlyil: 2014Puan:8.1
+isim:Harry Potter and the Deathly Hallows: Part 2yil: 2011Puan:8.1
+isim:The Deer Hunteryil: 1978Puan:8.1
+isim:In the Name of the Fatheryil: 1993Puan:8.1
+isim:The Grand Budapest Hotelyil: 2014Puan:8.1
+isim:Barry Lyndonyil: 1975Puan:8.1
+isim:Mr. Smith Goes to Washingtonyil: 1939Puan:8.1
+isim:Le salaire de la peuryil: 1953Puan:8.1
+isim:Sherlock Jr.yil: 1924Puan:8.1
+isim:Hacksaw Ridgeyil: 2016Puan:8.1
+isim:Salinui chueokyil: 2003Puan:8.1
+isim:Klausyil: 2019Puan:8.1
+isim:Relatos salvajesyil: 2014Puan:8.1
+isim:Det sjunde insegletyil: 1957Puan:8.1
+isim:Roomyil: 2015Puan:8.1
+isim:Mad Max: Fury Roadyil: 2015Puan:8.1
+isim:How to Train Your Dragonyil: 2010Puan:8.1
+isim:The Big Lebowskiyil: 1998Puan:8.1
+isim:Mary and Max.yil: 2009Puan:8.1
+isim:Monsters, Inc.yil: 2001Puan:8.1
+isim:Jawsyil: 1975Puan:8.1
+isim:Dead Poets Societyyil: 1989Puan:8.1
+isim:La passion de Jeanne d'Arcyil: 1928Puan:8.1
+isim:Tôkyô monogatariyil: 1953Puan:8.1
+isim:Hotel Rwandayil: 2004Puan:8.1
+isim:Rockyyil: 1976Puan:8.0
+isim:Ford v Ferrariyil: 2019Puan:8.0
+isim:Platoonyil: 1986Puan:8.0
+isim:Pather Panchaliyil: 1955Puan:8.0
+isim:Stand by Meyil: 1986Puan:8.0
+isim:The Terminatoryil: 1984Puan:8.0
+isim:Spotlightyil: 2015Puan:8.0
+isim:Rushyil: 2013Puan:8.0
+isim:Loganyil: 2017Puan:8.0
+isim:Networkyil: 1976Puan:8.0
+isim:Into the Wildyil: 2007Puan:8.0
+isim:Ratatouilleyil: 2007Puan:8.0
+isim:The Wizard of Ozyil: 1939Puan:8.0
+isim:Groundhog Dayyil: 1993Puan:8.0
+isim:Before Sunsetyil: 2004Puan:8.0
+isim:The Exorcistyil: 1973Puan:8.0
+isim:The Best Years of Our Livesyil: 1946Puan:8.0
+isim:The Incrediblesyil: 2004Puan:8.0
+isim:To Be or Not to Beyil: 1942Puan:8.0
+isim:The Grapes of Wrathyil: 1940Puan:8.0
+isim:La battaglia di Algeriyil: 1966Puan:8.0
+isim:Rebeccayil: 1940Puan:8.0
+isim:Hachi: A Dog's Taleyil: 2009Puan:8.0
+isim:Cool Hand Lukeyil: 1967Puan:8.0
+isim:Amores perrosyil: 2000Puan:8.0
+isim:Pirates of the Caribbean: The Curse of the Black Pearlyil: 2003Puan:8.0
+isim:La haineyil: 1995Puan:8.0
+isim:Les quatre cents coupsyil: 1959Puan:8.0
+isim:Babam ve Oglumyil: 2005Puan:8.0
+isim:Personayil: 1966Puan:8.0
+isim:It Happened One Nightyil: 1934Puan:8.0
+isim:The Sound of Musicyil: 1965Puan:8.0
+isim:Life of Brianyil: 1979Puan:8.0
+isim:Ah-ga-ssiyil: 2016Puan:8.0
+isim:Dersu Uzalayil: 1975Puan:8.0
+isim:Jai Bhimyil: 2021Puan:8.0
+isim:Aladdinyil: 1992Puan:8.0
+isim:Gandhiyil: 1982Puan:8.0
+isim:The Helpyil: 2011Puan:8.0
+isim:The Iron Giantyil: 1999Puan:8.0
